@@ -1,1 +1,1 @@
-# Running_projects
+The Project initiated for ReactJS,PYQT6
